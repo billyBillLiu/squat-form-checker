@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">squat-depth-checker</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="back">Back</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="r">R</string>
+    <string name="l">L</string>
+    <string name="flip_camera">Flip Camera</string>
+    <string name="playback">playback</string>
+    <string name="confirm_depth">Confirm Depth</string>
+    <string name="up_arrow">up arrow</string>
+    <string name="permission_description">Permission to access your phone\'s camera is required for this app\'s primary function.</string>
+    <string name="permission_title">Allow Access to Camera</string>
+    <string name="left_indicator">left_indicator</string>
+    <string name="right_indicator">right_indicator</string>
+    <string name="empty_button">Empty Button</string>
+    <string name="squatting_man_icon">Squatting Man Icon</string>
+    <string name="instructions_title">How To Use:</string>
+    <string name="instructions">1) Record your warm up set\n\n2) Select the desired depth of your squat\n\n3) A sound will play when you reach depth\n\n\nCalculated using your hip and knee angles*</string>
+    <string name="finished_icon">finished icon</string>
+    <string name="thunder_switch_description">Thunder Model</string>
+    <string name="barbell_mode_description">Barbell Mode</string>
+    <string name="switch_recommendation_description">(Recommended if squatting in bad lighting or with a barbell)</string>
+</resources>

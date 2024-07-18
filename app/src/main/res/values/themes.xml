@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <color name="opposite_button_color">#FFFFFF</color>
+    <style name="Base.Theme.SquatDepthChecker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="colorPrimary">@android:color/black</item>
+        <item name="colorButtonNormal">@color/black</item>
+    </style>
+    <style name="Theme.SquatDepthChecker" parent="Base.Theme.SquatDepthChecker" />
+</resources>
